@@ -1,0 +1,11 @@
+{
+	"title"		:	"AVGN SWEP 1.1 ",
+	"type"		:	"weapon",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

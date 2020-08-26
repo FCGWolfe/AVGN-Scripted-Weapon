@@ -1,0 +1,10 @@
+ENT.Base = "base_anim"
+ENT.Type = "anim"
+ENT.Category 			= "Kliker"
+ENT.PrintName			= "Atari 5200"
+ENT.Author			= "Kliker"
+ENT.Contact			= ""
+ENT.Purpose			= "But the ultimate question is, does it work? \n No. It doesn't."
+ENT.Instructions		= ""
+ENT.Spawnable			= true
+ENT.AdminSpawnable		= true
